@@ -4,7 +4,20 @@ Landing page de portfólio para uma clínica odontológica fictícia. O projeto 
 
 [![CI](https://github.com/oEnzoRibas/Aurora/actions/workflows/ci.yml/badge.svg)](https://github.com/oEnzoRibas/Aurora/actions/workflows/ci.yml)
 
+## Demonstração da Plataforma
+
+[![Prévia animada da Aurora mostrando o consultório, a seleção de clareamento e a confirmação do formulário demonstrativo.](docs/media/demo-preview.webp)](docs/media/demo.mp4)
+
+[Assistir à demonstração completa · MP4, 37 s, 720p, sem áudio](docs/media/demo.mp4)
+
+O vídeo percorre a clínica, apresenta a equipe, navega por um depoimento e abre uma pergunta frequente. Depois, acompanha a escolha de clareamento até o envio do formulário com dados fictícios.
+
+<details>
+<summary>Ver a página inicial em desktop e mobile</summary>
+
 ![Página inicial da Aurora em desktop e mobile. O título “Um novo olhar para o seu sorriso” aparece ao lado de uma fotografia conceitual do consultório.](docs/images/aurora-preview.webp)
+
+</details>
 
 ## Comece por aqui
 
